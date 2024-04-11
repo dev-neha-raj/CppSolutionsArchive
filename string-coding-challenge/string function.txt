@@ -1,0 +1,8 @@
+String length-strlen()
+Concatenate String-strcat()
+Copy String-strcpy()
+Campare string-strcmp()
+
+\n-New line
+\t-Tab
+\0- Null
